@@ -18,5 +18,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikcio&count_private=true&show_icons=true&theme=dark&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://nikcio.com/
-[linkedin]: https://linkedin.com/nikcio
+[linkedin]: https://linkedin.com/in/nikcio
 [freecodecamp]: https://freecodecamp.org/nikcio
