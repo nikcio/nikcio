@@ -1,9 +1,7 @@
 ### I'm Nikolaj - aka [Nikcio][website] 👋
 
 ## I'm a  Web/Moblie Developer!
-- 🖊️ I’m currently working on web and mobile apps
-- 🤠 I’m a hobbiest delveloper working on personal projects
-- 🤖 2020 Goal: Publish an app
+- 🖊️ I’m currently developing a product for Webti
 
 <br />
 
@@ -12,8 +10,6 @@
 [<img align="left" alt="nikcio.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="nikcio | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nikcio | Freecodecamp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" />][freecodecamp]
-[<img align="left" alt="nikcio | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_nikcio" height="30" width="30" />][instagram]
-[<img align="left" alt="nikcio | Dribble" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="nikcio" height="30" width="30" />][dribble]
 
 <br />
 
@@ -44,5 +40,3 @@
 [website]: https://nikcio.com/
 [linkedin]: https://linkedin.com/in/nikcio
 [freecodecamp]: https://freecodecamp.org/nikcio
-[instagram]: https://instagram.com/_nikcio
-[dribble]: https://dribbble.com/nikcio
