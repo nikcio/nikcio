@@ -19,6 +19,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikcio&count_private=true&show_icons=true&hide=prs,stars&bg_color=61B2E4&text_color=ffffff&title_color=ffffff&icon_color=ffffff&custom_title=Stats:&disable_animations=true" alt="stats" />
-  <div style="height=10px;width:16px"></div>
-  <img src="./Certificates.svg" alt="Certificates">
+  <img style="margin-left:16px" src="./Certificates.svg" alt="Certificates">
 </div>
