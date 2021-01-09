@@ -1,4 +1,4 @@
-<div style="font-family:Poppins, Helvetica, sans-serif;font-size:30px;font-weight:bold;" align="center">
+<div style="font-size:30px;font-weight:bold;" align="center">
   <span>Hi, I'm Nikolaj</span>
 </div>
 
