@@ -1,6 +1,7 @@
-<span align="center" style="font-family:Poppins, Helvetica, sans-serif;font-size:30px">**Hi, I'm Nikolaj**</span>
-
-<span align="center" style="font-family:Poppins, Helvetica, sans-serif;font-size:20px">Nikcio</span>
+<div align="center">
+  <span style="font-family:Poppins, Helvetica, sans-serif;font-size:30px">**Hi, I'm Nikolaj**</span>
+  <span style="font-family:Poppins, Helvetica, sans-serif;font-size:20px">Nikcio</span>
+</div>
 
 <div align="center">
   <a href="https://nikcio.com/">
@@ -19,5 +20,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikcio&count_private=true&show_icons=true&hide=prs,stars&bg_color=61B2E4&text_color=ffffff&title_color=ffffff&icon_color=ffffff&custom_title=Stats:&disable_animations=true" alt="stats" />
-  <img style="margin-left:16px" src="./Certificates.svg" alt="Certificates">
+  <img src="./Certificates.svg" alt="Certificates">
 </div>
