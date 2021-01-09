@@ -1,14 +1,8 @@
-<div style="font-family:Poppins, Helvetica, sans-serif;font-size:30px;font-weight:bold;" align="center">
-  <span>Hi, I'm Nikolaj</span>
-</div>
-
-<div style="font-family:Poppins, Helvetica, sans-serif;font-size:20px" align="center">
-  <span>Nikcio</span>
+<div align="center">
+  <img src="./Hi,%20I’m%20Nikolaj%20Nikcio.svg" alt="Title">
 </div>
 
 <br />
-
-<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 
 <div align="center">
   <a href="https://nikcio.com/">
