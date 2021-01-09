@@ -1,4 +1,4 @@
-<div style="font-size:30px;font-weight:bold;" align="center">
+<div style="font-family:Poppins, Helvetica, sans-serif;font-size:30px;font-weight:bold;" align="center">
   <span>Hi, I'm Nikolaj</span>
 </div>
 
@@ -7,6 +7,8 @@
 </div>
 
 <br />
+
+<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 
 <div align="center">
   <a href="https://nikcio.com/">
