@@ -1,6 +1,9 @@
-<div align="center">
-  <span style="font-family:Poppins, Helvetica, sans-serif;font-size:30px">**Hi, I'm Nikolaj**</span>
-  <span style="font-family:Poppins, Helvetica, sans-serif;font-size:20px">Nikcio</span>
+<div align="center" style="font-family:Poppins, Helvetica, sans-serif;font-size:30px;font-weight:bold;">
+  <span>Hi, I'm Nikolaj</span>
+</div>
+
+<div align="center" style="font-family:Poppins, Helvetica, sans-serif;font-size:20px">
+  <span>Nikcio</span>
 </div>
 
 <div align="center">
