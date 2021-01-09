@@ -5,13 +5,13 @@
 <br />
 
 <div align="center">
-  <a href="https://nikcio.com/">
+  <a href="https://nikcio.com/" target="_blank">
     <img src="./openmoji_globe-with-meridians.svg" alt="Website" height="32" width="32"/>
   </a>
-  <a href="https://www.linkedin.com/in/nikcio/">
+  <a href="https://www.linkedin.com/in/nikcio/" target="_blank">
     <img src="./openmoji_linkedin.svg" alt="LinkedIn" height="32" width="32"/>
   </a>
-  <a href="https://www.freecodecamp.org/nikcio">
+  <a href="https://www.freecodecamp.org/nikcio" target="_blank">
     <img src="./cib_freecodecamp.svg" alt="FreeCodeCamp" height="32" width="32"/>
   </a>
 </div>
