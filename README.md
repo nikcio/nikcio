@@ -25,6 +25,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikcio&count_private=true&show_icons=true&hide=prs,stars&bg_color=61B2E4&text_color=ffffff&title_color=ffffff&icon_color=ffffff&custom_title=Stats:&disable_animations=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikcio&count_private=true&show_icons=true&hide=prs,stars&bg_color=61B2E4&text_color=ffffff&title_color=ffffff&icon_color=ffffff&custom_title=Stats:&disable_animations=true&hide_border=true" alt="stats" />
   <img src="./Certificates.svg" alt="Certificates">
 </div>
